@@ -12,7 +12,7 @@ module.exports={
         .where('users.id', user_id)
         .limit(5)
         .offset((page-1)*5)
-        .select('*')//Está sobrepondo id do user porem contents possui o id de user
+        .select(['contents.*','users.name','users.email'])//Está sobrepondo id do user porem contents possui o id de user
 
         res.header('x-total-count', count['count(*)']);
 
