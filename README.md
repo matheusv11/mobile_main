@@ -1,13 +1,10 @@
 # mobile_main
-## &lt;Projeto Mobile&lt;
+## &lt;Projeto Mobile>
 
-Video de exibição:
+###Video de exibição:
 
-steps:
-- title: What is GitHub?
-  description: After watching this video, close the first issue in your repository.
-  video: https://youtube.com/embed/i4vCoKQNw9g
-  
+[![Apresentação do app](http://img.youtube.com/vi/i4vCoKQNw9g/0.jpg)](http://www.youtube.com/watch?v=i4vCoKQNw9g "Video do app Mobile")
+
 
 
 Contato: (89) 98819-1796
