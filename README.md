@@ -6,7 +6,7 @@ Video de exibição:
 steps:
 - title: What is GitHub?
   description: After watching this video, close the first issue in your repository.
-  video: https://www.youtube.com/watch?v=i4vCoKQNw9g&feature=youtu.be
+  video: https://youtube.com/embed/i4vCoKQNw9g
   
 
 
