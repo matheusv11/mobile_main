@@ -1,7 +1,7 @@
 // Update with your config settings.
 
 module.exports = {
-
+//Push
   development: {
     client: 'sqlite3',
     connection: {
